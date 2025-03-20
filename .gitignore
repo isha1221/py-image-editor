@@ -1,0 +1,5 @@
+*.spec
+dist
+.eggs
+__pycache__
+build
